@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[kanon]]></title>
         <description><![CDATA[kanon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kanon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 06:15:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 06:15:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kanon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello The Grid]]></title>
+            <description><![CDATA[<article><h1>Hello The Grid</h1><p>はじめてのThe Grid</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf569eb6-d658-4a39-872f-e139b07d5a26.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf569eb6-d658-4a39-872f-e139b07d5a26.jpg</link>
+            <guid isPermaLink="false">5a7d8090-5781-4e72-ab36-d3fb9a314ff1</guid>
+            <pubDate>Tue, 02 Aug 2016 06:15:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[テスト]]></title>
             <description><![CDATA[<article><h1>テスト</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a32eebb8-b0ac-4738-8f63-c1c6a65ed3ea.jpg"></article>]]></description>
