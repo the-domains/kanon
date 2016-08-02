@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3988306
   brandStrength: 0.664959
   lightness: 0.0390312
   brandColors:
-    - '#694287'
-    - '#371C4B'
-    - '#936BB0'
-    - '#E5ADB4'
-    - '#F6F2F4'
+    - '#D9D6C7'
+    - '#181818'
+    - '#FDF5EA'
+    - '#423F38'
+    - '#9E9995'
   rhythmicContrast: 0.8604829
-typography_spectrum: 0.3843203
+typography_spectrum: 0.3324382
 layout_spectrum: 0.4924812
 name: kanon
