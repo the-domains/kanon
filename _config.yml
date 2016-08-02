@@ -1,0 +1,14 @@
+layout_spectrum: 0.901782
+color:
+  saturation: 0.3988306
+  lightness: 0.0390312
+  brandStrength: 0.664959
+  brandColors:
+    - '#B5F0FF'
+    - '#00004A'
+    - '#FF3F7C'
+    - '#8C706F'
+    - '#902466'
+  rhythmicContrast: 0.8604829
+typography_spectrum: 0.3843203
+name: kanon
