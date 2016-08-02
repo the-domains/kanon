@@ -1,14 +1,26 @@
-layout_spectrum: 0.901782
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.3988306
-  lightness: 0.0390312
   brandStrength: 0.664959
+  lightness: 0.0390312
   brandColors:
-    - '#B5F0FF'
-    - '#00004A'
-    - '#FF3F7C'
-    - '#8C706F'
-    - '#902466'
+    - '#694287'
+    - '#371C4B'
+    - '#936BB0'
+    - '#E5ADB4'
+    - '#F6F2F4'
   rhythmicContrast: 0.8604829
 typography_spectrum: 0.3843203
+layout_spectrum: 0.4924812
 name: kanon
